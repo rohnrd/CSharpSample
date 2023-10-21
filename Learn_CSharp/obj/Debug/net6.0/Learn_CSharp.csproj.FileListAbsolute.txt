@@ -1,0 +1,14 @@
+C:\Users\Rohn\source\repos\Learn_CSharp\bin\Debug\net6.0\Learn_CSharp.exe
+C:\Users\Rohn\source\repos\Learn_CSharp\bin\Debug\net6.0\Learn_CSharp.deps.json
+C:\Users\Rohn\source\repos\Learn_CSharp\bin\Debug\net6.0\Learn_CSharp.runtimeconfig.json
+C:\Users\Rohn\source\repos\Learn_CSharp\bin\Debug\net6.0\Learn_CSharp.dll
+C:\Users\Rohn\source\repos\Learn_CSharp\bin\Debug\net6.0\Learn_CSharp.pdb
+C:\Users\Rohn\source\repos\Learn_CSharp\obj\Debug\net6.0\Learn_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rohn\source\repos\Learn_CSharp\obj\Debug\net6.0\Learn_CSharp.AssemblyInfoInputs.cache
+C:\Users\Rohn\source\repos\Learn_CSharp\obj\Debug\net6.0\Learn_CSharp.AssemblyInfo.cs
+C:\Users\Rohn\source\repos\Learn_CSharp\obj\Debug\net6.0\Learn_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Rohn\source\repos\Learn_CSharp\obj\Debug\net6.0\Learn_CSharp.dll
+C:\Users\Rohn\source\repos\Learn_CSharp\obj\Debug\net6.0\refint\Learn_CSharp.dll
+C:\Users\Rohn\source\repos\Learn_CSharp\obj\Debug\net6.0\Learn_CSharp.pdb
+C:\Users\Rohn\source\repos\Learn_CSharp\obj\Debug\net6.0\Learn_CSharp.genruntimeconfig.cache
+C:\Users\Rohn\source\repos\Learn_CSharp\obj\Debug\net6.0\ref\Learn_CSharp.dll
